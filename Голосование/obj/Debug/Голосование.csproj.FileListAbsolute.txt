@@ -1,0 +1,7 @@
+c:\users\i3\source\repos\Голосование\Голосование\bin\Debug\Голосование.exe.config
+c:\users\i3\source\repos\Голосование\Голосование\bin\Debug\Голосование.exe
+c:\users\i3\source\repos\Голосование\Голосование\bin\Debug\Голосование.pdb
+c:\users\i3\source\repos\Голосование\Голосование\obj\Debug\Голосование.csprojAssemblyReference.cache
+c:\users\i3\source\repos\Голосование\Голосование\obj\Debug\Голосование.csproj.CoreCompileInputs.cache
+c:\users\i3\source\repos\Голосование\Голосование\obj\Debug\Голосование.exe
+c:\users\i3\source\repos\Голосование\Голосование\obj\Debug\Голосование.pdb
